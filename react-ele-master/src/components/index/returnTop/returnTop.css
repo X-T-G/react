@@ -1,0 +1,20 @@
+.returnTop{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 85px;
+	height: 85px;
+	position: fixed;
+	right: .4rem;
+	bottom: 2rem;
+	background: #fff;
+	border-radius: 50%;
+	background: #fff;
+	border:1PX solid #999;
+	transition: opacity .8s;
+	svg{
+		width: .533333rem;
+		height: .533333rem;
+		fill: #999;
+	}
+}
